@@ -1,0 +1,25 @@
+{
+  "name": "inpl-validation",
+  "version": "0.0.1",
+  "description": "Bunch of validators for polish identification numbers (pesel, regon, nip, IDno)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "nip",
+    "numer-identyfikacji-podatkowej",
+    "pesel",
+    "regon",
+    "numer-dowodu-osobistego"
+  ],
+  "author": "Jacek Chudziński <chudzinskijacek@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "should": "^9.0.2"
+  }
+}
